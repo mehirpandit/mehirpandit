@@ -2,7 +2,10 @@
 
 I am a recent Masters of Science grad from The University of Georgia 
 
-[![Mehir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehirpandit)](https://github.com/mehirpandit/github-readme-stats)
+[![Mehir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehirpandit&theme=vue-dark&show_icons=true)](https://github.com/mehirpandit/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehirpandit&layout=compact&theme=vue-dark)](https://github.com/mehirpandit/github-readme-stats)
+
 
 
 
