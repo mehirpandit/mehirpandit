@@ -2,6 +2,8 @@
 
 [![Mehir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehirpandit)](https://github.com/mehirpandit/github-readme-stats)
 
+I am a recent Masters of Science grad from The University of Georgia 
+
 
 <!--
 **mehirpandit/mehirpandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
