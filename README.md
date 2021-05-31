@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am a recent Masters of Science grad from The University of Georgia 
+I am a recent Masters of Science graduate from The University of Georgia (Fall 2020).
+Learning and improving myself every day is the thing that gets me up in the morning.
+
+
 
 [![Mehir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehirpandit&layout=compact&theme=vue-dark&show_icons=true)](https://github.com/mehirpandit/github-readme-stats)
 
