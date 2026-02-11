@@ -1,29 +1,69 @@
-### Hi there 👋
+# 👋 Hi, I'm Mehir
 
-I am a recent Masters of Science graduate from The University of Georgia (Fall 2020).
-Learning and improving myself every day is the thing that gets me up in the morning.
+Backend engineer passionate about building clean, reliable systems and continuously leveling up my skills.  
+I enjoy solving real problems with code, documenting my work clearly, and learning something new every day.
 
+---
 
+## 🛠️ Tech & Tools
+
+### **Languages**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Frameworks & Backend**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 What I'm Working On
+- Completing the **Microsoft Back-End Developer Professional Certificate**
+- Building backend projects in **C#**, **.NET**, and **ASP.NET Core**
+- Strengthening my skills in **APIs**, **SQL**, and **cloud fundamentals**
+- Expanding my GitHub with clean, well-documented projects
+
+---
+
+## 📘 Featured Projects
+- **Inventory Management System** — C# console app with clean structure and documentation  
+- More backend/API projects coming as I progress through the Microsoft certificate
+
+---
+
+## 🎓 Certifications
+- Foundations of Coding: Back-End (Coursera)  
+- Microsoft Back-End Developer Professional Certificate (in progress)
+
+---
+
+## 📊 GitHub Stats
 
 [![Mehir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehirpandit&layout=compact&theme=vue-dark&show_icons=true)](https://github.com/mehirpandit/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehirpandit&layout=compact&theme=vue-dark)](https://github.com/mehirpandit/github-readme-stats)
 
+---
 
+## 🌱 About Me
+I’m a lifelong learner who enjoys building, debugging, and improving systems.  
+Every project I create is an opportunity to grow and refine my engineering mindset.
 
+---
 
-
-<!--
-**mehirpandit/mehirpandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
