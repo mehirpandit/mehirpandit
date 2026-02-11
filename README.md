@@ -51,13 +51,7 @@ I enjoy solving real problems with code, documenting my work clearly, and learni
 
 ---
 
-## 📊 GitHub Stats
 
-[![Mehir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehirpandit&layout=compact&theme=vue-dark&show_icons=true)](https://github.com/mehirpandit/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehirpandit&layout=compact&theme=vue-dark)](https://github.com/mehirpandit/github-readme-stats)
-
----
 
 ## 🌱 About Me
 I’m a lifelong learner who enjoys building, debugging, and improving systems.  
